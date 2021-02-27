@@ -1,0 +1,10 @@
+# Editor
+.vscode
+.idea
+
+# Directories
+node_modules
+
+# tmp
+test/assets
+exported_assets
